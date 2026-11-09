@@ -1,0 +1,15 @@
+Trade_ID,Instrument,Risk_Class,Risk_Factor,Delta_Sensitivity,Risk_Weight,Weighted_Sensitivity
+TR001,Apple Stock,Equity,Apple Share Price,5000.0,0.3,1500.0
+TR002,Microsoft Stock,Equity,Microsoft Share Price,3000.0,0.3,900.0
+TR003,US Treasury Bond,GIRR,USD Interest Rate,-850.0,0.01,-8.5
+TR004,Corporate Bond A,GIRR,USD Interest Rate,-600.0,0.01,-6.0
+TR004,Corporate Bond A,CSR,Company A Credit Spread,-600.0,0.05,-30.0
+TR005,EUR/USD Forward,FX,EUR/USD Exchange Rate,5000.0,0.15,750.0
+TR006,Gold Futures,Commodity,Gold Price,4000.0,0.2,800.0
+TR007,Apple Call Option,Equity,Apple Share Price,1200.0,0.3,360.0
+TR008,Microsoft Put Option,Equity,Microsoft Share Price,-600.0,0.3,-180.0
+TR009,Interest Rate Swap,GIRR,USD Interest Rate,-1200.0,0.01,-12.0
+TR010,USD/INR Forward,FX,USD/INR Exchange Rate,6000.0,0.15,900.0
+TR011,Silver Futures,Commodity,Silver Price,-3000.0,0.2,-600.0
+TR012,Corporate Bond B,GIRR,USD Interest Rate,-700.0,0.01,-7.0
+TR012,Corporate Bond B,CSR,Company B Credit Spread,-700.0,0.05,-35.0

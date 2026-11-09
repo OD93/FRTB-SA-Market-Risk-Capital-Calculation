@@ -1,0 +1,3 @@
+Trade_ID,Instrument,Risk_Factor,Underlying_Price,Gamma,Shock_Size,Curvature_PnL,Curvature_Charge
+TR007,Apple Call Option,Apple Share Price,271.12200927734375,0.02,40.66830139160156,12200.490417480467,0.0
+TR008,Microsoft Put Option,Microsoft Share Price,480.5711669921875,0.015,72.08567504882812,12164.457664489744,0.0

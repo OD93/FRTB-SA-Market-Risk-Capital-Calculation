@@ -1,0 +1,3 @@
+Trade_ID,Instrument,Risk_Class,Risk_Factor,Implied_Volatility,Vega_Sensitivity
+TR007,Apple Call Option,Equity,Apple Implied Volatility,25.0,1200
+TR008,Microsoft Put Option,Equity,Microsoft Implied Volatility,28.0,900

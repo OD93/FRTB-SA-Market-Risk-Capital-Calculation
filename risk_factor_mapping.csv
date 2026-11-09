@@ -1,0 +1,17 @@
+Trade_ID,Risk_Class,Risk_Factor,Risk_Bucket,Sensitivity_Type
+TR001,Equity,Apple Share Price,Apple,Delta
+TR002,Equity,Microsoft Share Price,Microsoft,Delta
+TR003,GIRR,USD Interest Rate,USD,Delta
+TR004,GIRR,USD Interest Rate,USD,Delta
+TR004,CSR,Company A Credit Spread,Company A,Delta
+TR005,FX,EUR/USD Exchange Rate,EUR/USD,Delta
+TR006,Commodity,Gold Price,Gold,Delta
+TR007,Equity,Apple Share Price,Apple,Delta
+TR007,Equity,Apple Implied Volatility,Apple,Vega
+TR008,Equity,Microsoft Share Price,Microsoft,Delta
+TR008,Equity,Microsoft Implied Volatility,Microsoft,Vega
+TR009,GIRR,USD Interest Rate,USD,Delta
+TR010,FX,USD/INR Exchange Rate,USD/INR,Delta
+TR011,Commodity,Silver Price,Silver,Delta
+TR012,GIRR,USD Interest Rate,USD,Delta
+TR012,CSR,Company B Credit Spread,Company B,Delta

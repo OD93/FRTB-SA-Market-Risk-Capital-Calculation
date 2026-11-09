@@ -1,0 +1,3 @@
+Trade_ID,Instrument,Issuer,Rating,Notional,Recovery_Rate,LGD,JTD,Risk_Weight,DRC
+TR004,Corporate Bond A,Company A,BBB,800000,0.4,0.6,480000.0,0.005,2400.0
+TR012,Corporate Bond B,Company B,A,900000,0.45,0.55,495000.00000000006,0.005,2475.0000000000005
